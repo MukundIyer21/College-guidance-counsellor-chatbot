@@ -3,22 +3,10 @@
 A conversational chatbot system to assist students in college/career guidance — helping them explore university options, understand admission criteria, and receive personalised recommendations.
 
 ## Table of Contents
-- [Motivation](#motivation)  
 - [Features](#features)  
 - [Architecture / How it works](#architecture--how-it-works)  
 - [Usage / Getting Started](#usage--getting-started)  
-- [Dependencies](#dependencies)  
-- [Folder / File Structure](#folder--file-structure)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact / Author](#contact-author)
 
-## Motivation
-Choosing the right college or course can be a complex and overwhelming process for many students. Traditional counselling resources are often limited, and students may lack access to tailored guidance.  
-This chatbot project is designed to:  
-- Provide **24/7** interactive support for common queries around college selection, admissions, courses, etc.  
-- Offer a user-friendly interface via natural-language conversation.  
-- Automate and streamline the tasks of retrieving, processing, and recommending relevant college/career information.
 
 ## Features
 - Conversational chat interface (via notebook or script) that takes user input and responds with guidance.  
@@ -39,3 +27,4 @@ This chatbot project is designed to:
    ```bash
    git clone https://github.com/MukundIyer21/College-guidance-counsellor-chatbot.git
    cd College-guidance-counsellor-chatbot
+
