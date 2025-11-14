@@ -1,11 +1,7 @@
 # College-Guidance-Counsellor-Chatbot
 
 A conversational chatbot system to assist students in college/career guidance — helping them explore university options, understand admission criteria, and receive personalised recommendations.
-
-## Table of Contents
-- [Features](#features)  
-- [Architecture / How it works](#architecture--how-it-works)  
-- [Usage / Getting Started](#usage--getting-started)  
+
 
 
 ## Features
